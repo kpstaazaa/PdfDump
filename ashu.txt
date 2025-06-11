@@ -1,0 +1,110 @@
+---
+FieldType: Text
+FieldName: hCourtE20
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: hJudgeE20
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Date of DeathE20
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Decedent's DomicileE20
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: City, VillageE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CountyE20
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: Post OfficeE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StateE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Zip CodeE20
+FieldFlags: 0
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: Print Atty NameE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Atty AddressE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Atty City, State, ZipE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Atty Area CodeE20
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Atty Phone NoE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Atty Reg NoE20
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Print Fid NameE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Fid AddressE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Fid City, State, ZipE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Fid Area CodeE20
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Fid Phone NoE20
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Case Name#0E20
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: Case NumberE20
+FieldFlags: 0
+FieldJustification: Center
